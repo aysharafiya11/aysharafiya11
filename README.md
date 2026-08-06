@@ -7,8 +7,7 @@
 
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=2F81F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Always+Learning+New+Things)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
