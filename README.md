@@ -52,10 +52,10 @@ I am actively seeking Data Analyst, Business Analyst, and Junior Data Analyst op
 
 | Project | Repository | Tools | Status |
 |---------|------------|-------|:------:|
-| 📈 Brazilian E-Commerce Analysis | [View Project](https://github.com/aysharafiya11/YOUR_REPO_NAME) | SQL • Power BI | ✅ |
+| 📈 Brazilian E-Commerce Analysis | [View Project](https://github.com/aysharafiya11/Brazilian-Ecommerce-Data-Analysis) | SQL • Power BI | ✅ |
 | 📊 Retail Sales Analysis | [View Project](https://github.com/aysharafiya11/YOUR_REPO_NAME) | SQL (MySQL) | ✅ |
-| 🎬 Netflix Dashboard | [View Project](https://github.com/aysharafiya11/YOUR_REPO_NAME) | Excel | ✅ |
-| 🐍 Statistical Analysis | [View Project](https://github.com/aysharafiya11/YOUR_REPO_NAME) | Python | 🚧 |
+| 🎬 Netflix Dashboard | [View Project](https://github.com/aysharafiya11/Netflix-Data-Analysis-Excel) | Excel | ✅ |
+
 ---
 
 # 🌱 Currently Learning
