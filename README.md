@@ -64,11 +64,11 @@ I am actively seeking Data Analyst, Junior Data Analyst, Business Analyst, and R
 
 # 🌱 Currently Learning
 
-- Advanced SQL
-- Python for Data Analytics
-- Statistics
-- Power BI (DAX & Data Modeling)
-- Machine Learning with Scikit-learn
+- 🔄 Advanced SQL
+- 🔄 Python for Data Analytics
+- 🔄 Statistics for Data Analysis
+- 🔄 Power BI (DAX & Data Modeling)
+- 🔄 Machine Learning with Scikit-learn
 
 ---
 
