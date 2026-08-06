@@ -1,4 +1,13 @@
-# Hi, I'm Aysha Rafiya 👋
+<h1 align="center">Hi 👋, I'm Aysha Rafiya</h1>
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel</h3>
+
+![](https://komarev.com/ghpvc/?username=aysharafiya11&color=blue)
+
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=2F81F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</p>
 
 ## 📊 Aspiring Data Analyst
 
@@ -8,6 +17,11 @@ I enjoy transforming raw data into meaningful insights through data cleaning, SQ
 
 ---
 
+## Career Objective
+
+I am actively seeking Data Analyst, Business Analyst, and Junior Data Analyst opportunities where I can leverage SQL, Python, Excel, and Power BI to solve real-world business problems.
+
+---
 # 💻 Tech Stack
 
 ### 📊 Data Analytics
@@ -34,26 +48,14 @@ I enjoy transforming raw data into meaningful insights through data cleaning, SQ
 
 # 📌 Featured Projects
 
-### 📈 Brazilian E-Commerce Analysis using SQL & Power BI
-- Cleaned and analyzed the Brazilian Olist e-commerce dataset using SQL.
-- Built an interactive Power BI dashboard with KPIs and business insights.
-- Identified customer behavior, sales trends, and seller performance.
+## 📌 Featured Projects
 
-### 📊 Retail Sales Analysis using SQL
-- Performed advanced SQL analysis using joins, CTEs, subqueries, and window functions.
-- Identified customer purchasing patterns and sales trends.
-- Generated actionable business insights.
-
-### 🎬 Netflix Data Analysis Dashboard using Excel
-- Cleaned and analyzed Netflix data using Microsoft Excel.
-- Built interactive dashboards using Pivot Tables, Pivot Charts, KPIs, and Slicers.
-- Analyzed content distribution across genres, countries, ratings, and release years.
-
-### 🐍 Statistical Analysis of Brazilian E-Commerce using Python *(In Progress)*
-- Data cleaning and preprocessing with Pandas.
-- Exploratory Data Analysis (EDA).
-- Statistical analysis and data visualization using Matplotlib and Seaborn.
-
+| Project | Repository | Tools | Status |
+|---------|------------|-------|:------:|
+| 📈 Brazilian E-Commerce Analysis | [View Project](https://github.com/aysharafiya11/YOUR_REPO_NAME) | SQL • Power BI | ✅ |
+| 📊 Retail Sales Analysis | [View Project](https://github.com/aysharafiya11/YOUR_REPO_NAME) | SQL (MySQL) | ✅ |
+| 🎬 Netflix Dashboard | [View Project](https://github.com/aysharafiya11/YOUR_REPO_NAME) | Excel | ✅ |
+| 🐍 Statistical Analysis | [View Project](https://github.com/aysharafiya11/YOUR_REPO_NAME) | Python | 🚧 |
 ---
 
 # 🌱 Currently Learning
@@ -62,7 +64,7 @@ I enjoy transforming raw data into meaningful insights through data cleaning, SQ
 - Python for Data Analytics
 - Statistics
 - Power BI (DAX & Data Modeling)
-- Machine Learning Fundamentals
+- Machine Learning with Scikit-learn
 
 ---
 
@@ -80,12 +82,4 @@ https://github.com/aysharafiya11
 
 ---
 
-# 📊 GitHub Stats
-
-![Aysha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysharafiya11&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysharafiya11&layout=compact)
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ If you like my work, feel free to explore my repositories and connect with me on LinkedIn!
