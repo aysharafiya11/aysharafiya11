@@ -11,6 +11,10 @@
 
 </p>
 
+<p align="center">
+📊 Turning raw data into meaningful insights • 📈 Building interactive dashboards • 🚀 Open to Data Analyst opportunities
+</p>
+
 ## 📊 Aspiring Data Analyst
 
 Electronics & Communication Engineering graduate transitioning into Data Analytics.
