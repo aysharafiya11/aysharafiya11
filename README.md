@@ -78,7 +78,7 @@ I am actively seeking Data Analyst, Junior Data Analyst, Business Analyst, and R
 
 📧 **Email:** aysharafiya11@gmail.com
 
-💼 **LinkedIn:**  [linkedin.com/in/aysha-rafiya-3464632a2](https://www.linkedin.com/in/aysharafiya)
+💼 **LinkedIn:**  [linkedin.com/in/aysharafiya](https://www.linkedin.com/in/aysharafiya)
 
 🐙 **GitHub:**  [github.com/aysharafiya11](https://github.com/aysharafiya11)
 
