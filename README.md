@@ -7,7 +7,7 @@
 
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=2F81F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=2F81F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </p>
 
@@ -76,11 +76,9 @@ I am actively seeking Data Analyst, Junior Data Analyst, Business Analyst, and R
 
 📧 **Email:** aysharafiya11@gmail.com
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/aysha-rafiya-3464632a2
+💼 **LinkedIn:**  [linkedin.com/in/aysha-rafiya-3464632a2](https://www.linkedin.com/in/aysha-rafiya-3464632a2)
 
-🐙 **GitHub:**  
-https://github.com/aysharafiya11
+🐙 **GitHub:**  [github.com/aysharafiya11](https://github.com/aysharafiya11)
 
 ---
 
