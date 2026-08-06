@@ -52,12 +52,12 @@ I am actively seeking Data Analyst, Junior Data Analyst, Business Analyst, and R
 
 | Project | Repository | Tools | Status |
 |---------|------------|-------|:------:|
-| 📈 Brazilian E-Commerce Analysis | [View Project](https://github.com/aysharafiya11/Brazilian-Ecommerce-Data-Analysis) | SQL • Power BI | ✅ |
-| 📊 Retail Sales Analysis | [View Project](https://github.com/aysharafiya11/Retail-Sales-SQL-Analysis) | SQL (MySQL) | ✅ |
-| 🎬 Netflix Dashboard | [View Project](https://github.com/aysharafiya11/Netflix-Data-Analysis-Excel) | Excel | ✅ |
-| 🐍 Statistical Analysis of Brazilian E-Commerce | *Coming Soon* | Python • Pandas • NumPy | 🚧 |
+| 📈 Brazilian E-Commerce Analysis | [View Project](https://github.com/aysharafiya11/Brazilian-Ecommerce-Data-Analysis) | SQL • Power BI | ✅ Completed |
+| 📊 Retail Sales Analysis | [View Project](https://github.com/aysharafiya11/Retail-Sales-SQL-Analysis) | SQL (MySQL) | ✅ Completed |
+| 🎬 Netflix Dashboard | [View Project](https://github.com/aysharafiya11/Netflix-Data-Analysis-Excel) | Excel | ✅ Completed |
+| 🐍 Statistical Analysis of Brazilian E-Commerce | *Coming Soon* | Python • Pandas • NumPy | 🚧 In Progress |
 
-Tools: SQL • MySQL • Python • Pandas • NumPy • Excel • Power BI • Git • GitHub
+**Tools Used:** SQL • MySQL • Python • Pandas • NumPy • Microsoft Excel • Power BI • Git • GitHub
 ---
 
 # 🌱 Currently Learning
@@ -81,18 +81,6 @@ https://www.linkedin.com/in/aysha-rafiya-3464632a2
 
 🐙 **GitHub:**  
 https://github.com/aysharafiya11
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aysharafiya11&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysharafiya11&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
 
 ---
 
