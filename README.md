@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aysha Rafiya</h1>
 <h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel</h3>
 
-![](https://komarev.com/ghpvc/?username=aysharafiya11&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aysharafiya11&color=blue" alt="Profile Views"/>
+</p>
 
 <p align="center">
   
@@ -17,9 +19,9 @@ I enjoy transforming raw data into meaningful insights through data cleaning, SQ
 
 ---
 
-## Career Objective
+## 🎯 Career Objective
 
-I am actively seeking Data Analyst, Business Analyst, and Junior Data Analyst opportunities where I can leverage SQL, Python, Excel, and Power BI to solve real-world business problems.
+I am actively seeking Data Analyst, Junior Data Analyst, Business Analyst, and Reporting Analyst opportunities where I can apply SQL, Python, Excel, and Power BI to transform data into actionable business insights and support data-driven decision-making.
 
 ---
 # 💻 Tech Stack
@@ -48,14 +50,14 @@ I am actively seeking Data Analyst, Business Analyst, and Junior Data Analyst op
 
 # 📌 Featured Projects
 
-## 📌 Featured Projects
-
 | Project | Repository | Tools | Status |
 |---------|------------|-------|:------:|
 | 📈 Brazilian E-Commerce Analysis | [View Project](https://github.com/aysharafiya11/Brazilian-Ecommerce-Data-Analysis) | SQL • Power BI | ✅ |
-| 📊 Retail Sales Analysis | [View Project](https://github.com/aysharafiya11/YOUR_REPO_NAME) | SQL (MySQL) | ✅ |
+| 📊 Retail Sales Analysis | [View Project](https://github.com/aysharafiya11/Retail-Sales-SQL-Analysis) | SQL (MySQL) | ✅ |
 | 🎬 Netflix Dashboard | [View Project](https://github.com/aysharafiya11/Netflix-Data-Analysis-Excel) | Excel | ✅ |
+| 🐍 Statistical Analysis of Brazilian E-Commerce | *Coming Soon* | Python • Pandas • NumPy | 🚧 |
 
+Tools: SQL • MySQL • Python • Pandas • NumPy • Excel • Power BI • Git • GitHub
 ---
 
 # 🌱 Currently Learning
@@ -82,4 +84,18 @@ https://github.com/aysharafiya11
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and connect with me on LinkedIn!
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aysharafiya11&show_icons=true&theme=github_dark&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysharafiya11&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+---
+
+⭐ Thank you for visiting my profile!
+
+If you're interested in collaborating, discussing Data Analytics, or exploring opportunities, feel free to connect with me on LinkedIn or reach out via email.
