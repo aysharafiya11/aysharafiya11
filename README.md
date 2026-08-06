@@ -16,9 +16,9 @@
 
 ## 📊 Aspiring Data Analyst
 
-Electronics & Communication Engineering graduate transitioning into Data Analytics.
+Electronics & Communication Engineering graduate with a strong interest in Data Analytics.
 
-I enjoy transforming raw data into meaningful insights through data cleaning, SQL analysis, Python, Excel, and Power BI dashboards. I am passionate about solving business problems with data and continuously improving my analytical skills.
+I enjoy transforming raw data into actionable business insights using SQL, Python, Excel, and Power BI. Through hands-on projects, I have developed practical skills in data cleaning, exploratory data analysis (EDA), dashboard development, and business reporting, and I continue to expand my knowledge through real-world projects.
 
 ---
 
