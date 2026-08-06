@@ -57,7 +57,6 @@ I am actively seeking Data Analyst, Junior Data Analyst, Business Analyst, and R
 | 🎬 Netflix Dashboard | [View Project](https://github.com/aysharafiya11/Netflix-Data-Analysis-Excel) | Excel | ✅ Completed |
 | 🐍 Statistical Analysis of Brazilian E-Commerce | *Coming Soon* | Python • Pandas • NumPy | 🚧 In Progress |
 
-**Tools Used:** SQL • MySQL • Python • Pandas • NumPy • Microsoft Excel • Power BI • Git • GitHub
 ---
 
 # 🌱 Currently Learning
