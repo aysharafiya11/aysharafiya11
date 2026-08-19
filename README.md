@@ -58,7 +58,7 @@ I am actively seeking Data Analyst, Junior Data Analyst, Business Analyst, and R
 | 📈 Brazilian E-Commerce Analysis using SQL & Power BI | [View Project](https://github.com/aysharafiya11/Brazilian-Ecommerce-Data-Analysis) | SQL • Power BI | ✅ Completed |
 | 📊 Retail Sales Analysis using SQL | [View Project](https://github.com/aysharafiya11/Retail-Sales-SQL-Analysis) | SQL (MySQL) | ✅ Completed |
 | 🎬 Netflix Data Analysis Dashboard using Excel | [View Project](https://github.com/aysharafiya11/Netflix-Data-Analysis-Excel) | Excel | ✅ Completed |
-| 🐍 Statistical Analysis of Brazilian E-Commerce using Python | *Coming Soon* | Python • Pandas • NumPy • Matplotlib • Seaborn | 🚧 In Progress |
+| 🐍 Statistical Analysis of Brazilian E-Commerce using Python | [View Project](https://github.com/aysharafiya11/Netflix-Data-Analysis-Excel) | Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Jupyter | ✅ Completed |
 
 ---
 
