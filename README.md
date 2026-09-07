@@ -20,7 +20,7 @@ Data Analyst | SQL | Python | Power BI | Excel | Data Analytics
 
 ## 📊 About Me
 
-Electronics & Communication Engineering graduate with a strong interest in Data Analytics.
+Electronics & Communication Engineering graduate focused on building a career in Data Analytics.
 
 I enjoy transforming raw data into actionable business insights using **SQL, Python, Excel, and Power BI**.
 
@@ -97,7 +97,6 @@ I am actively seeking **Data Analyst, Junior Data Analyst, Business Analyst, and
 - 🔄 Python for Data Analytics
 - 🔄 Statistics for Data Analysis
 - 🔄 Power BI — DAX & Data Modeling
-- 🔄 Machine Learning with Scikit-learn
 
 ---
 
@@ -113,6 +112,4 @@ I am actively seeking **Data Analyst, Junior Data Analyst, Business Analyst, and
 
 ---
 
-⭐ Thank you for visiting my profile!
-
-If you're interested in Data Analytics, collaboration, or professional opportunities, feel free to connect with me on LinkedIn or reach out via email.
+⭐ Open to Data Analyst opportunities and professional collaborations.
