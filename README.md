@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aysha Rafiya</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | SQL | Python | Power BI | Excel
+Data Analyst | SQL | Python | Power BI | Excel | Data Analytics
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Aspiring Data Analyst | SQL | Python | Power BI | Excel
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -70,10 +70,6 @@ I am actively seeking **Data Analyst, Junior Data Analyst, Business Analyst, and
 - Descriptive Statistics
 - Correlation Analysis
 - Hypothesis Testing
-- Spearman Correlation
-- Kruskal-Wallis H Test
-- Dunn's Post-hoc Test
-- Bonferroni Correction
 
 ### 🛠️ Tools
 
