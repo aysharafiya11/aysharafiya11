@@ -79,10 +79,11 @@ I am actively seeking **Data Analyst, Junior Data Analyst, Business Analyst, and
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 | Project | Repository | Tools | Status |
-|---------|------------|-------|:------:|
+|---|---|---|---|
+| 🏦 Banking Loan Risk Analysis using Power BI | [View Project](https://github.com/aysharafiya11/Banking-Loan-Risk-Analysis-PowerBI) | Power BI • DAX • Power Query • Data Modeling | ✅ Completed |
 | 🐍 Statistical Analysis of Brazilian E-Commerce using Python | [View Project](https://github.com/aysharafiya11/Brazilian-Ecommerce-Statistical-Analysis) | Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Jupyter | ✅ Completed |
 | 📈 Brazilian E-Commerce Analysis using SQL & Power BI | [View Project](https://github.com/aysharafiya11/Brazilian-Ecommerce-Data-Analysis) | SQL • MySQL • Power BI | ✅ Completed |
 | 📊 Retail Sales Analysis using SQL | [View Project](https://github.com/aysharafiya11/Retail-Sales-SQL-Analysis) | SQL • MySQL | ✅ Completed |
