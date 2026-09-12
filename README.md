@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aysha Rafiya</h1>
 
 <h3 align="center">
-Data Analyst | SQL | Python | Power BI | Excel | Data Analytics
+Data Analyst | SQL | Python | Power BI | Excel | Machine Learning
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Data Analyst | SQL | Python | Power BI | Excel | Data Analytics
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+Scikit-learn;Turning+Data+into+Insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,13 +36,18 @@ Through hands-on projects, I have developed practical skills in:
 - Dashboard Development
 - Business Insight Generation
 
+I have also worked on machine learning projects involving **classification, model evaluation, feature importance analysis, and predictive analytics** using Python and Scikit-learn.
+
+- Machine Learning
+- Classification Model Evaluation
+
 I am continuously strengthening my analytical and technical skills through practical, real-world projects.
 
 ---
 
 ## 🎯 Career Objective
 
-I am actively seeking **Data Analyst, Junior Data Analyst, Business Analyst, and Reporting Analyst** opportunities where I can apply SQL, Python, Excel, and Power BI to analyze data, generate actionable insights, and support data-driven decision-making.
+I am actively seeking **Data Analyst, Junior Data Analyst, Business Analyst, and Reporting Analyst** opportunities where I can apply SQL, Python, Excel, Power BI, and machine learning techniques to analyze data, generate actionable insights, and support data-driven decision-making.
 
 ---
 
@@ -83,6 +88,7 @@ I am actively seeking **Data Analyst, Junior Data Analyst, Business Analyst, and
 
 | Project | Repository | Tools | Status |
 |---|---|---|---|
+| 🤖 Loan Default Prediction & Credit Risk Analysis | [View Project](https://github.com/aysharafiya11/Loan-Default-Prediction-ML) | Python • Pandas • Scikit-learn • Random Forest • Jupyter | ✅ Completed |
 | 🏦 Banking Loan Risk Analysis using Power BI | [View Project](https://github.com/aysharafiya11/Banking-Loan-Risk-Analysis-PowerBI) | Power BI • DAX • Power Query • Data Modeling | ✅ Completed |
 | 📈 Brazilian E-Commerce Analysis using SQL & Power BI | [View Project](https://github.com/aysharafiya11/Brazilian-Ecommerce-Data-Analysis) | SQL • MySQL • Power BI | ✅ Completed |
 | 🐍 Statistical Analysis of Brazilian E-Commerce using Python | [View Project](https://github.com/aysharafiya11/Brazilian-Ecommerce-Statistical-Analysis) | Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Jupyter | ✅ Completed |
